@@ -1,0 +1,5 @@
+com\ghani\produk\controller\ProdukController.class
+com\ghani\produk\repository\ProdukRepository.class
+com\ghani\produk\ProdukApplication.class
+com\ghani\produk\model\Produk.class
+com\ghani\produk\service\ProdukService.class
